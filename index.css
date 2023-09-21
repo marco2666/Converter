@@ -1,0 +1,18 @@
+.body{
+    border: 1px solid black;
+    background-image: url(https://cdn.wallpapersafari.com/92/72/Rj621A.jpg);
+    }
+    
+    .text{
+        font-size: large;
+        font-weight: 500;
+    }
+    .div1{
+        color: rgb(196, 53, 100);
+    }
+    #foothead{
+        color: rgb(196, 53, 100);
+    }
+    .ccst{
+        color: rgb(196, 53, 100);
+    }
